@@ -1,0 +1,28 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "[aula 1 imagine on] homepage for studio on events",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariakrishna/aula1_studioon.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "study"
+  ],
+  "author": "Maria Krishna Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariakrishna/aula1_studioon/issues"
+  },
+  "homepage": "https://github.com/mariakrishna/aula1_studioon#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
